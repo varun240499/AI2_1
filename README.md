@@ -1,7 +1,7 @@
 # Robotic Warehouse | AI Planner: LPG Planner
 
 ## Artificial Intelligence for Robotics II - Assignment I 
-Abdul Basit, _[5161322@studenti.unige.it](mailto:5161322@studenti.unige.it)_
+Basit Akram, _[5161322@studenti.unige.it](mailto:5161322@studenti.unige.it)_
 Durga Varun Gangesetti, _[5058219@studenti.unige.it](mailto:5058219@studenti.unige.it)_
 Rakesh Motamarri, _[5058220@studenti.unige.it](mailto:5058220@studenti.unige.it)_
 Soundarya Pallanti, _[4807289@studenti.unige.it](mailto:4807289@studenti.unige.it)_
